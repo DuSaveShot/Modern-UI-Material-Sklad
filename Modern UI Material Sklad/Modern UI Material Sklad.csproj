@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E808C2CA-13BD-4D98-ABCB-25877C8E1B0D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Modern_UI_Material_Sklad</RootNamespace>
+    <AssemblyName>Modern UI Material Sklad</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="connection.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegistration.Designer.cs">
+      <DependentUpon>FormRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Admin_Selector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Admin_Selector.Designer.cs">
+      <DependentUpon>Form_Admin_Selector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_User_Selector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_User_Selector.Designer.cs">
+      <DependentUpon>Form_User_Selector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame_DB_Boss.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame_DB_Boss.Designer.cs">
+      <DependentUpon>Frame_DB_Boss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame_DB_List.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame_DB_List.Designer.cs">
+      <DependentUpon>Frame_DB_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame_DB_Loader.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame_DB_Loader.Designer.cs">
+      <DependentUpon>Frame_DB_Loader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame_DB_Sklad.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame_DB_Sklad.Designer.cs">
+      <DependentUpon>Frame_DB_Sklad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame_DB_Sklad_Parts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame_DB_Sklad_Parts.Designer.cs">
+      <DependentUpon>Frame_DB_Sklad_Parts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame_DB_Tovar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frame_DB_Tovar.Designer.cs">
+      <DependentUpon>Frame_DB_Tovar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tab_Selector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tab_Selector.Designer.cs">
+      <DependentUpon>Tab_Selector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tab_Selector_Loader.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tab_Selector_Loader.Designer.cs">
+      <DependentUpon>Tab_Selector_Loader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_MainFrame.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_MainFrame.Designer.cs">
+      <DependentUpon>UserControl_MainFrame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_Sklad.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_Sklad.Designer.cs">
+      <DependentUpon>UserControl_Sklad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_Users.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_Users.Designer.cs">
+      <DependentUpon>UserControl_Users.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegistration.resx">
+      <DependentUpon>FormRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Admin_Selector.resx">
+      <DependentUpon>Form_Admin_Selector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_User_Selector.resx">
+      <DependentUpon>Form_User_Selector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame_DB_Boss.resx">
+      <DependentUpon>Frame_DB_Boss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame_DB_List.resx">
+      <DependentUpon>Frame_DB_List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame_DB_Loader.resx">
+      <DependentUpon>Frame_DB_Loader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame_DB_Sklad.resx">
+      <DependentUpon>Frame_DB_Sklad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame_DB_Sklad_Parts.resx">
+      <DependentUpon>Frame_DB_Sklad_Parts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame_DB_Tovar.resx">
+      <DependentUpon>Frame_DB_Tovar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Tab_Selector.resx">
+      <DependentUpon>Tab_Selector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tab_Selector_Loader.resx">
+      <DependentUpon>Tab_Selector_Loader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_MainFrame.resx">
+      <DependentUpon>UserControl_MainFrame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_Sklad.resx">
+      <DependentUpon>UserControl_Sklad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_Users.resx">
+      <DependentUpon>UserControl_Users.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Tables\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

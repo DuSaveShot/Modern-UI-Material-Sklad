@@ -1,0 +1,97 @@
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.exe.config
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.exe
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.pdb
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.AssemblyReference.cache
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.SuggestedBindingRedirects.cache
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form1.resources
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Properties.Resources.resources
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.GenerateResource.cache
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.CoreCompileInputs.cache
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.exe
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.pdb
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.FormRegistration.resources
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form_Admin_Selector.resources
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_Sklad.resources
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_MainFrame.resources
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_Users.resources
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form_User_Selector.resources
+C:\Users\sslob\source\repos\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_Role_User_Sklad.resources
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.exe.config
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.exe
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.pdb
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.AssemblyReference.cache
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.SuggestedBindingRedirects.cache
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form1.resources
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.FormRegistration.resources
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form_Admin_Selector.resources
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form_User_Selector.resources
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Properties.Resources.resources
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_MainFrame.resources
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_Role_User_Sklad.resources
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_Sklad.resources
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_Users.resources
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.GenerateResource.cache
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.CoreCompileInputs.cache
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.exe
+D:\Курсовая\Учеба 3 Курс\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.pdb
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.exe.config
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.exe
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.pdb
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.AssemblyReference.cache
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.SuggestedBindingRedirects.cache
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form1.resources
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.FormRegistration.resources
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form_Admin_Selector.resources
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form_User_Selector.resources
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Properties.Resources.resources
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_MainFrame.resources
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_Role_User_Sklad.resources
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_Sklad.resources
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_Users.resources
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.GenerateResource.cache
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.CoreCompileInputs.cache
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.exe
+E:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.pdb
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.exe.config
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.exe
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.pdb
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.AssemblyReference.cache
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.SuggestedBindingRedirects.cache
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form1.resources
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.FormRegistration.resources
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form_Admin_Selector.resources
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form_User_Selector.resources
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Properties.Resources.resources
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_MainFrame.resources
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_Role_User_Sklad.resources
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_Sklad.resources
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_Users.resources
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.GenerateResource.cache
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.CoreCompileInputs.cache
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.exe
+D:\Курсовая\Учеба 3 Курс\Моё\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.pdb
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.exe.config
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.exe
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\bin\Debug\Modern UI Material Sklad.pdb
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.AssemblyReference.cache
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.SuggestedBindingRedirects.cache
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form1.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.FormRegistration.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form_Admin_Selector.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Form_User_Selector.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Properties.Resources.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_MainFrame.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_Sklad.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.UserControl_Users.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.GenerateResource.cache
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.csproj.CoreCompileInputs.cache
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.exe
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern UI Material Sklad.pdb
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Tab_Selector.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Tab_Selector_Loader.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Frame_DB_Boss.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Frame_DB_List.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Frame_DB_Loader.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Frame_DB_Sklad.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Frame_DB_Sklad_Parts.resources
+C:\Users\sslob\OneDrive\Рабочий стол\-_Sh0t_-\Имба скрипт )\Учеба.Курсовая_3_Курс\Курсовая\Modern UI Material Sklad\Modern UI Material Sklad\obj\Debug\Modern_UI_Material_Sklad.Frame_DB_Tovar.resources
