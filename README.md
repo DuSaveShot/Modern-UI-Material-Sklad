@@ -26,7 +26,7 @@
 <code>git pull</code><button class="button-copy-code"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="copy-docs-icon"></svg></button>
 </pre>
 
-# Отобразить список commit'ов в которком виде 
+# Отобразить список commit'ов в коротком виде 
 <pre class="shiki" style="background-color: #ffffff">
 <code>git log --oneline</code><button class="button-copy-code"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="copy-docs-icon"></svg></button>
 </pre>
